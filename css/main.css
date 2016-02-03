@@ -1,0 +1,80 @@
+
+.unoverde{
+	background-color:green;
+	height:650px;
+	width:1000px;
+
+
+}
+.dosverde{
+	background-color:green;
+	height:550px;
+	width:900px;
+	border: 2px solid white;
+	top: 50px;
+	bottom: 500px;
+	right: 50px;
+	left: 50px;
+
+	position: relative;
+
+
+}
+.tresverde{
+	background-color: green;
+	width: 100px;
+	height: 300px;
+	position: absolute;
+	border: 2px solid white;
+	top: 90px;
+	bottom: 500px;
+	right: 1px;
+	left: 1px;
+
+}
+.verdefrontal{
+	background-color: green;
+	width: 100px;
+	height: 300px;
+	position: relative;
+	border: 2px solid white;
+	top: 90px;
+	bottom: 0px;
+	right: 500px;
+	left: 800px;
+
+}
+.trescirculo{
+	background-color: green;
+	width: 250px;
+	height: 250px;
+	border: 2px solid white;
+	border-radius: 100%;
+	position: absolute;
+	top: 95px;
+	bottom: 500px;
+	right: 400px;
+	left: 320px;
+
+}
+.bolaverde{
+	position: absolute;
+	top: 90px;
+	bottom: 500px;
+	left: 90px;
+
+}
+.boladefrontal{
+	position: absolute;
+	top: 50px;
+	bottom: 20px;
+	right: 400px;
+
+}
+.circulobola{
+	position: absolute;
+	top: 380px;
+	bottom:00px;
+	left: 800px;
+}
+
